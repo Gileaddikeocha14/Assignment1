@@ -58,4 +58,13 @@ Here are some simple examples. The first instance sets the variable $X to 1, the
 
 10. Miscellaneous operators
 These miscellaneous operators show whether a shell option is set or a shell variable has a value, but it does not discover the value of the variable, just whether it has one.
-
+11. -k file operator
+‘-k’ operator is used to check the sticky bit is set or not for a file
+12. -nt file operator
+‘-nt’ operator is used to check that any file is newer than the other file or not
+13. -G file operator
+‘-G’ operator is used to check both group id of the file and the login user is the same
+14. -x file operator
+‘-x’ operator is used to check the execution permission of a file
+15. -S file operator
+‘-S’ operator is used to check the file is a socket or not
