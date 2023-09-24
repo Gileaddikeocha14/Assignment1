@@ -1,3 +1,3 @@
 # Assignment1
 Bash Script
-MASTE RAND SLAVE
+MASTER AND SLAVE SRIPT
